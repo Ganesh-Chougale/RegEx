@@ -6,7 +6,7 @@ as we can see here we typed a word & it matches the string we given in regex bar
 
 2. if we type same word twice?
 ![0102](./Images/0102.JPG)
-looks like in default (without any flag) it only looks for first occurance only & case sensitive.
+looks like in default (without any flag) it only looks for first occurance only + case sensitive.
 
 3. how to validate the multiple instance of same word then?
 ![0103](./Images/0103.JPG)
